@@ -6,9 +6,9 @@
 </div>
 
 
-# Portfolio
+<h1>Portfolio</h1>
 
-### PokeStop
+<h3>PokeStop</h3>
 - <a href="https://github.com/cjfritz9/PokeStop">Repository</a>
 - <a href="https://github.com/cjfritz9/PokeStophttps://youtu.be/kvJKMhTxqR4">Demo</a>
 - <a href="">Deployment</a>
