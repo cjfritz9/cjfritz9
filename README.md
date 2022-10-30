@@ -6,7 +6,7 @@
 </div>
 
 
-<h1>Portfolio</h1>
+<h2>Portfolio</h2>
 
 <h3>PokeStop</h3>
 <ul>
