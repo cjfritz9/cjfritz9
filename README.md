@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/cj-fritz/"><img src="https://i.ibb.co/cgjPM56/LI-Logo.png" width="100"/></a>
 </div>
 <div id="streak align="center">
-  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cjfritz9&theme=highcontrast&hide_border=true&fire=DD2727)](https://git.io/streak-stats)"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
  </div>
 <h2>Portfolio</h2>
 
