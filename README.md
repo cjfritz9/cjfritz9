@@ -14,3 +14,17 @@
   <li><a href="https://github.com/cjfritz9/PokeStophttps://youtu.be/kvJKMhTxqR4">Demo</a></li>
   <li><a href="">Deployment</a></li>
 </ul>
+
+<h3>Fitness Tracker</h3>
+<ul>
+  <li><a href="https://github.com/cjfritz9/PokeStop">Repository</a></li>
+  <li><a href="https://github.com/cjfritz9/PokeStophttps://youtu.be/kvJKMhTxqR4">Demo</a></li>
+  <li><a href="">Deployment</a></li>
+</ul>
+
+<h3>Social Stack</h3>
+<ul>
+  <li><a href="">Repository</a></li>
+  <li><a href="">Demo</a></li>
+  <li><a href="">Deployment</a></li>
+</ul>
