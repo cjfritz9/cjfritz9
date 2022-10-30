@@ -10,7 +10,7 @@
 
 <h3>PokeStop</h3>
 <ul>
-  <a href="https://github.com/cjfritz9/PokeStop">Repository</a>
-  <a href="https://github.com/cjfritz9/PokeStophttps://youtu.be/kvJKMhTxqR4">Demo</a>
-  <a href="">Deployment</a>
+  <li><a href="https://github.com/cjfritz9/PokeStop">Repository</a></li>
+  <li><a href="https://github.com/cjfritz9/PokeStophttps://youtu.be/kvJKMhTxqR4">Demo</a></li>
+  <li><a href="">Deployment</a></li>
 </ul>
