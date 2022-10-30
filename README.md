@@ -28,3 +28,5 @@
   <li><a href="">Demo</a></li>
   <li><a href="">Deployment</a></li>
 </ul>
+
+<h2>Certifications</h2>
