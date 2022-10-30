@@ -8,5 +8,5 @@
 
 # Portfolio
 
-## PokeStop
+### PokeStop
 - <a href="https://github.com/cjfritz9/PokeStop">Repository</a>
