@@ -4,8 +4,9 @@
 <div id="socials" align="left">
   <a href="https://www.linkedin.com/in/cj-fritz/"><img src="https://i.ibb.co/cgjPM56/LI-Logo.png" width="100"/></a>
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cjfritz9&theme=highcontrast&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+<div id="streak align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cjfritz9&theme=highcontrast&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+ </div>
 <h2>Portfolio</h2>
 
 <h4>PokeStop</h4>
