@@ -8,4 +8,4 @@
   </picture>
 </div>
 
-<a href="https://cjfritz.dev><h2>Visit My Site</h2></a>
+<a href="https://cjfritz.dev ><h2>Visit My Site</h2></a>
