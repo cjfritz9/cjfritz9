@@ -8,4 +8,6 @@
   </picture>
 </div>
 
-<h2><a href="https://cjfritz.dev" target="_blank">Visit My Site</a></h2>
+___
+
+<div align='center'><h2><a href="https://cjfritz.dev" target="_blank">Visit My Site</a></h2></div>
