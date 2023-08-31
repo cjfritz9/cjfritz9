@@ -7,5 +7,6 @@
 
 ___
 
-<div align='left'><h2><a href="https://cjfritz.dev" target="_blank">My Website</a></h2></div>
-<div align='left'><h2><a href="https://www.linkedin.com/in/cj-fritz/" target="_blank">LinkedIn</a></h2></div>
+<div align='left'><h4><a href="https://cjfritz.dev" target="_blank">My Website</a></h4></div>
+<div align='left'><h4><a href="https://www.linkedin.com/in/cj-fritz/" target="_blank">LinkedIn</a></h4></div>
+<div>Open to collaboration!</div>
